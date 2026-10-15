@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120">
+      <path d="M110,10 C98,28 83,37 63,43 C84,52 96,63 110,83 C124,63 136,52 157,43 C137,37 122,28 110,10Z" fill="#2c5fa8"/>
+      <path d="M110,20 C103,31 98,37 91,42 C98,46 104,52 110,63 C116,52 122,46 129,42 C122,37 117,31 110,20Z" fill="#f2c326"/>
+      <text x="110" y="103" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="24" fill="#1a315c">JSNOVA</text>
+    </svg>

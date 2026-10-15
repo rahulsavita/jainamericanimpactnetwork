@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120">
+      <circle cx="60" cy="60" r="48" fill="none" stroke="#314b9b" stroke-width="10"/>
+      <circle cx="60" cy="60" r="36" fill="#fff"/>
+      <text x="60" y="69" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="27" fill="#314b9b">JAINA</text>
+      <text x="60" y="91" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#4d8b58">EST. 1981</text>
+      <text x="120" y="52" font-family="Arial,sans-serif" font-weight="700" font-size="19" fill="#314b9b">JAINA</text>
+      <text x="120" y="73" font-family="Arial,sans-serif" font-size="9" fill="#5b6270">Federation of Jain Associations</text>
+      <text x="120" y="88" font-family="Arial,sans-serif" font-size="9" fill="#5b6270">in North America</text>
+    </svg>

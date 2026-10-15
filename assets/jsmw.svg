@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120">
+      <g transform="translate(110,48)">
+        <path d="M0,-32 L7,-18 L22,-22 L15,-7 L29,0 L15,7 L22,22 L7,18 L0,32 L-7,18 L-22,22 L-15,7 L-29,0 L-15,-7 L-22,-22 L-7,-18 Z" fill="#2f6fb0"/>
+        <circle r="18" fill="#fff" stroke="#2f6fb0" stroke-width="3"/>
+        <text x="0" y="6" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#2f6fb0">JSMW</text>
+      </g>
+      <text x="110" y="91" text-anchor="middle" font-family="Georgia,serif" font-size="16" font-weight="700" fill="#20395b">Jain Society of</text>
+      <text x="110" y="108" text-anchor="middle" font-family="Georgia,serif" font-size="16" font-weight="700" fill="#20395b">Metropolitan Washington</text>
+    </svg>

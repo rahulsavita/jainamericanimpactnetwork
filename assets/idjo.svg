@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 120">
+      <path d="M110,10 C95,31 76,39 61,45 C84,53 96,65 110,86 C124,65 136,53 159,45 C144,39 125,31 110,10Z" fill="#15a27b"/>
+      <path d="M110,16 C101,29 93,36 84,42 C95,46 103,53 110,67 C117,53 125,46 136,42 C127,36 119,29 110,16Z" fill="#f2b63a"/>
+      <text x="110" y="103" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="27" fill="#253d71">IDJO</text>
+    </svg>
